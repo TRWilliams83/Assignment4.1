@@ -1,0 +1,48 @@
+head {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(41, 35, 35);
+    text-emphasis-color: royalblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.buttons {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.meme1 {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.game-button {
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+    cursor: pointer; 
+    border: black, 5px; 
+    background-color: goldenrod;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.game {
+    background-color: rgb(59, 169, 59);
+    border-radius: 25%;
+    height: 400px;
+    width: 500px;
+    padding-top: 40px;
+    border: black 10px; 
+}
+
